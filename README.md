@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 
-Simple and to the point large files finder utility in *.nix.
+Simple and to the point large files finder utility in *.nix, optimize for human.
 
 ## Copyright and License
 
